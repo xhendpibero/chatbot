@@ -1032,9 +1032,9 @@
     "@babel/helper-validator-identifier" "^7.16.7"
     to-fast-properties "^2.0.0"
 
-"@clientio/rappid@file:../../../build/package/rappid.tgz":
+"@clientio/rappid@file:./rappid.tgz":
   version "3.4.1"
-  resolved "file:../../../build/package/rappid.tgz#13118d4e4ac07fa7b525dc645b713912b930136a"
+  resolved "file:./rappid.tgz#13118d4e4ac07fa7b525dc645b713912b930136a"
   dependencies:
     "@types/backbone" "~1.4.13"
     "@types/dagre" "~0.7.44"
